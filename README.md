@@ -2,6 +2,8 @@
 
 http://g2.ykimg.com/0900641F464A911EDD00000000000000000000-0000-0000-0000-00009197BA80
 
+![My Unicorn](http://www.forkosh.com/mathtex.cgi? c=\\sqrt{a^2+b^2})
+
 test
 
  : dfasdfasdfsdfasdfsdf
