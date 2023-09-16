@@ -1,6 +1,7 @@
 ﻿# MyFile
 
-https://zhuanlan.zhihu.com/p/559692211
+https://zhuanlan.zhihu.com/p/559692211   
+https://zhuanlan.zhihu.com/p/584182115
 
 %userprofile%\.gitconfig   
 %userprofile%\.git-credentials   
