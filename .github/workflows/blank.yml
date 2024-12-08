@@ -28,10 +28,10 @@ jobs:
       # Runs a single command using the runners shell 
       - name: Run a one-line script
         run: |
-            python -m workflow.py
+            python -m workflow
             echo -----------
-            # ls  pwd
             dir
+            # ls  pwd
             # echo =====================
 
   myjob_two:
@@ -44,7 +44,7 @@ jobs:
         run: |
           cd
           echo ============
-          python workflow.py
+          python -m workflow
           # which curl
           # cd
           # which python
