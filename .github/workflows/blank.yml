@@ -44,7 +44,7 @@ jobs:
         run: |
           cd
           echo ============
-          python -m workflow
+          python -m workflow.py
           # which curl
           # cd
           # which python
