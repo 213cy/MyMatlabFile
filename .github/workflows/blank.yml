@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell  python workflow.py dir('') 
       - name: Run a one-line script
         run: |
-            
+            which dir
             # echo =====================
             # dir
             # ls
@@ -41,6 +41,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           which curl
-          echo =====================,
+          echo =====================
           which python
           echo ====================.
