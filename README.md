@@ -1,10 +1,14 @@
 ﻿# MyFile
 
+#  git actions push to self
+Most effective ways to push within GitHub Actions   
+https://joht.github.io/johtizen/build/2022/01/20/github-actions-push-into-repository.html
+
+GitHub Push   
+https://github.com/marketplace/actions/github-push 
+
+
 #  git使用
-https://zhuanlan.zhihu.com/p/559692211   
-https://zhuanlan.zhihu.com/p/584182115
-
-
 %userprofile%\.gitconfig   
 %userprofile%\.git-credentials   
 git config --global credential.helper store   
